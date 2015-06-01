@@ -1,0 +1,11 @@
+{
+  "name" : "gifbig",
+  "description" : "gifbig",
+  "author" : "Wade Dorrell <wade@rationalagents.com>",
+  "dependencies": { 
+  	"express": "4.12.3"
+  },
+  "version" : "0.0.1",
+  "engines": { "node": "0.10.x"},
+  "scripts": { "start":"node index.js" }
+}
